@@ -1,12 +1,12 @@
 # devops-bash-scripts
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ssbostan/devops-bash-scripts)
-[![GitHub license](https://img.shields.io/github/license/ssbostan/devops-bash-scripts)](https://github.com/ssbostan/devops-bash-scripts/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ssbostan/devops-bash-scripts)](https://github.com/ssbostan/devops-bash-scripts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ssbostan/devops-bash-scripts)](https://github.com/ssbostan/devops-bash-scripts/network)
-[![GitHub issues](https://img.shields.io/github/issues/ssbostan/devops-bash-scripts)](https://github.com/ssbostan/devops-bash-scripts/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/hassanzadeh-sd/devops-bash-scripts)
+[![GitHub license](https://img.shields.io/github/license/hassanzadeh-sd/devops-bash-scripts)](https://github.com/hassanzadeh-sd/devops-bash-scripts/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hassanzadeh-sd/devops-bash-scripts)](https://github.com/hassanzadeh-sd/devops-bash-scripts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hassanzadeh-sd/devops-bash-scripts)](https://github.com/hassanzadeh-sd/devops-bash-scripts/network)
+[![GitHub issues](https://img.shields.io/github/issues/hassanzadeh-sd/devops-bash-scripts)](https://github.com/hassanzadeh-sd/devops-bash-scripts/issues)
 
-Stargaze ![GitHub Repo stars](https://img.shields.io/github/stars/ssbostan/devops-bash-scripts?style=social) if you find it useful. STAR STAR STAR.
+Stargaze ![GitHub Repo stars](https://img.shields.io/github/stars/hassanzadeh-sd/devops-bash-scripts?style=social) if you find it useful. STAR STAR STAR.
 
 Copyright 2022 All contributors.
 
